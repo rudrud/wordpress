@@ -1,4 +1,6 @@
 <?php
+echo "coucou";
+
 /**
  * The base configuration for WordPress
  *
